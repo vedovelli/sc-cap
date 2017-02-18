@@ -8,9 +8,11 @@
              'csrfToken' => csrf_token(),
          ]); ?>
     </script>
+    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
 <body>
-    <div id="app">
+    <div id="app" class="container">
+        <h1>Melhoremos um pouco essa porcaria!</h1>
         <example></example>
     </div>
     <script src="{{ asset('js/app.js') }}"></script>

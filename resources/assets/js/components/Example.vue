@@ -6,7 +6,11 @@
                     <div class="panel-heading">Screencast!</div>
 
                     <div class="panel-body">
-                        I am the example to be used in the Capistrano screncast!
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.</p>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.</p>
                     </div>
                 </div>
             </div>

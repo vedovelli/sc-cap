@@ -12073,6 +12073,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = {
     mounted: function mounted() {
@@ -31713,7 +31717,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "panel-heading"
   }, [_vm._v("Screencast!")]), _vm._v(" "), _c('div', {
     staticClass: "panel-body"
-  }, [_vm._v("\n                    I am the example to be used in the Capistrano screncast!\n                ")])])])])])
+  }, [_c('p', [_vm._v("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.")]), _vm._v(" "), _c('p', [_vm._v("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.")]), _vm._v(" "), _c('p', [_vm._v("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.")]), _vm._v(" "), _c('p', [_vm._v("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.")]), _vm._v(" "), _c('p', [_vm._v("Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi veritatis labore iure sit, similique! Expedita accusamus ipsum nulla, obcaecati repellendus reprehenderit delectus, suscipit neque in quo dolores itaque iste sed.")])])])])])])
 }]}
 module.exports.render._withStripped = true
 if (false) {
