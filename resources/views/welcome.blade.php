@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Screencast</title>
+    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     <script>
         window.Laravel = <?php echo json_encode([
              'csrfToken' => csrf_token(),
          ]); ?>
     </script>
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
 <body>
     <div id="app" class="container">
